@@ -1,0 +1,5 @@
+numpy==2.3.2
+openai==1.76.2
+Pillow==11.1.0
+pynput==1.8.1
+tensorflow==2.19.0
